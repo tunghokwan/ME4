@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xiaoqiang/Desktop/dllm/zeroerr/exo_control_cpp-master/linux_demo/ECanVci.h
+
+/home/xiaoqiang/Desktop/dllm/zeroerr/exo_control_cpp-master/linux_demo/ZeroErr_control.cpp
+ZeroErr_control.h
+/home/xiaoqiang/Desktop/dllm/zeroerr/exo_control_cpp-master/linux_demo/ZeroErr_control.h
+
+/home/xiaoqiang/Desktop/dllm/zeroerr/exo_control_cpp-master/linux_demo/ZeroErr_control.h
+iostream
+-
+ECanVci.h
+/home/xiaoqiang/Desktop/dllm/zeroerr/exo_control_cpp-master/linux_demo/ECanVci.h
+stdio.h
+-
+string.h
+-
+chrono
+-
+thread
+-
+

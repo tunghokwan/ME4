@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread   CMakeFiles/mysocket.dir/mysocket.cpp.o  -o mysocket  -Wl,-rpath,/home/xiaoqiang/Desktop/dllm/zeroerr/exo_control_cpp-master/include/websocketpp:/home/xiaoqiang/Desktop/dllm/zeroerr/exo_control_cpp-master/linux_demo linux_demo/libZeroErr_control.a include/websocketpp/client.hpp linux_demo/libECanVci.so.1 linux_demo/libusb-1.0.so linux_demo/libusb.so 
